@@ -1,0 +1,20 @@
+{
+    "Author": "Jamie Thomson",
+    "ContentSize": 7483,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/archive-azure-automation-logs-to-azure-blob-storage/master/Move-AzureAutomationRunbookLogs.ps1",
+    "DownloadCount": 1490,
+    "Id": "Archive-Azure-Automation-898a1aa8",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 270,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-11-25T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook will archive logs for a given runbook and for whose jobs started in a given time period to a given Azure BLOB Storage account. The Azure storage account and location therein is specified via the $SubscrptionName,\u00a0$StorageAccountName, $StorageContainerName, $LogRoo",
+    "Title": "Archive Azure Automation logs to Azure BLOB Storage",
+    "UpdatedDate": "2014-11-28T00:00:00",
+    "Url": "https://github.com/azureautomation/archive-azure-automation-logs-to-azure-blob-storage",
+    "UserTags": "Utility, Monitoring, Remediation"
+}
